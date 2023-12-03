@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Final_OLAP_Cube", "Final_OLAP_Cube\Final_OLAP_Cube.dwproj", "{E9EF8AC6-C824-4A13-B8D6-3C15C8C850B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9EF8AC6-C824-4A13-B8D6-3C15C8C850B4}.Development|Default.ActiveCfg = Development
+		{E9EF8AC6-C824-4A13-B8D6-3C15C8C850B4}.Development|Default.Build.0 = Development
+		{E9EF8AC6-C824-4A13-B8D6-3C15C8C850B4}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16CACFE8-84D1-4C69-B512-77CD5DE2B0FE}
+	EndGlobalSection
+EndGlobal
